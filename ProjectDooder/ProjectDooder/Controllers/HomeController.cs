@@ -15,7 +15,7 @@ namespace ProjectDooder.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "This is the begining of my game review web page I guess.";
 
             return View();
         }
